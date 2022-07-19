@@ -8,5 +8,6 @@
         /n/nif you roll too many dice, you need to record the result then
         /n/nroll the correct amount of dice. The result from the re-roll
         /n/ncannot be greater than the initial amount.</string>
-    <string name="Update">Update</string>
+    <string name="editPlayerName">Type Name Here</string>
+    <string name="updatePlayerName">Update</string>
 </resources>
